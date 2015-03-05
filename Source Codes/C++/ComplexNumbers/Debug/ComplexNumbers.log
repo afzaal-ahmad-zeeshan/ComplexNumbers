@@ -1,0 +1,33 @@
+﻿Build started 3/5/2015 1:31:36 AM.
+     1>Project "C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\ComplexNumbers\ComplexNumbers\ComplexNumbers.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ComplexNumbers.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ComplexNumber.cpp ComplexNumbers.cpp
+         ComplexNumber.cpp
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(32): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(33): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(51): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(211): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(212): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(238): warning C4244: 'return' : conversion from 'double' to 'long', possible loss of data
+         Generating Code...
+         Compiling...
+         ComplexNumbers.cpp
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(32): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(33): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(51): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(211): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(212): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\afzaalahmad\documents\visual studio 2013\projects\complexnumbers\complexnumbers\complexnumber.h(238): warning C4244: 'return' : conversion from 'double' to 'long', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\ComplexNumbers\Debug\ComplexNumbers.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\ComplexNumbers\Debug\ComplexNumbers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\ComplexNumbers\Debug\ComplexNumbers.lib" /MACHINE:X86 Debug\ComplexNumber.obj
+         Debug\ComplexNumbers.obj
+         Debug\stdafx.obj
+         ComplexNumbers.vcxproj -> C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\ComplexNumbers\Debug\ComplexNumbers.exe
+     1>Done Building Project "C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\ComplexNumbers\ComplexNumbers\ComplexNumbers.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.51
